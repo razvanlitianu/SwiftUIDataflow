@@ -8,17 +8,45 @@
 
 /* Begin PBXBuildFile section */
 		8C46D01B2BB5910D00E4AB58 /* SwiftUIDataApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D01A2BB5910D00E4AB58 /* SwiftUIDataApp.swift */; };
-		8C46D01D2BB5910D00E4AB58 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D01C2BB5910D00E4AB58 /* ContentView.swift */; };
+		8C46D01D2BB5910D00E4AB58 /* StateDrivenView_Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D01C2BB5910D00E4AB58 /* StateDrivenView_Observable.swift */; };
 		8C46D01F2BB5911000E4AB58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C46D01E2BB5911000E4AB58 /* Assets.xcassets */; };
 		8C46D0222BB5911000E4AB58 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C46D0212BB5911000E4AB58 /* Preview Assets.xcassets */; };
+		8C46D0292BB59C6100E4AB58 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0282BB59C6100E4AB58 /* UserProfileView.swift */; };
+		8C46D02B2BBABCB200E4AB58 /* ActivityView_Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D02A2BBABCB200E4AB58 /* ActivityView_Observable.swift */; };
+		8C46D02D2BBABEFA00E4AB58 /* SettingsView_Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D02C2BBABEFA00E4AB58 /* SettingsView_Observable.swift */; };
+		8C46D02F2BBAE47D00E4AB58 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D02E2BBAE47D00E4AB58 /* ListView.swift */; };
+		8C46D0312BBD806E00E4AB58 /* StateDrivenView_SimpleState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0302BBD806E00E4AB58 /* StateDrivenView_SimpleState.swift */; };
+		8C46D0332BBD80B200E4AB58 /* StateDrivenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0322BBD80B200E4AB58 /* StateDrivenView.swift */; };
+		8C46D03A2BBD81F800E4AB58 /* StateDrivenView_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0352BBD81F800E4AB58 /* StateDrivenView_4.swift */; };
+		8C46D03B2BBD81F800E4AB58 /* StateDrivenView_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0362BBD81F800E4AB58 /* StateDrivenView_5.swift */; };
+		8C46D03C2BBD81F800E4AB58 /* StateDrivenView_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0372BBD81F800E4AB58 /* StateDrivenView_2.swift */; };
+		8C46D03D2BBD81F800E4AB58 /* StateDrivenView_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0382BBD81F800E4AB58 /* StateDrivenView_3.swift */; };
+		8C46D03E2BBD81F800E4AB58 /* StateDrivenView_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0392BBD81F800E4AB58 /* StateDrivenView_6.swift */; };
+		8C46D0412BBD832100E4AB58 /* StateDrivenView_ObservedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0402BBD832100E4AB58 /* StateDrivenView_ObservedObject.swift */; };
+		8C46D0442BBD847A00E4AB58 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0432BBD847A00E4AB58 /* ActivityView.swift */; };
+		8C46D0462BBD84BA00E4AB58 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C46D0452BBD84BA00E4AB58 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8C46D0172BB5910D00E4AB58 /* SwiftUIData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C46D01A2BB5910D00E4AB58 /* SwiftUIDataApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDataApp.swift; sourceTree = "<group>"; };
-		8C46D01C2BB5910D00E4AB58 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8C46D01C2BB5910D00E4AB58 /* StateDrivenView_Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDrivenView_Observable.swift; sourceTree = "<group>"; };
 		8C46D01E2BB5911000E4AB58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C46D0212BB5911000E4AB58 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8C46D0282BB59C6100E4AB58 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
+		8C46D02A2BBABCB200E4AB58 /* ActivityView_Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView_Observable.swift; sourceTree = "<group>"; };
+		8C46D02C2BBABEFA00E4AB58 /* SettingsView_Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView_Observable.swift; sourceTree = "<group>"; };
+		8C46D02E2BBAE47D00E4AB58 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		8C46D0302BBD806E00E4AB58 /* StateDrivenView_SimpleState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDrivenView_SimpleState.swift; sourceTree = "<group>"; };
+		8C46D0322BBD80B200E4AB58 /* StateDrivenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDrivenView.swift; sourceTree = "<group>"; };
+		8C46D0352BBD81F800E4AB58 /* StateDrivenView_4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateDrivenView_4.swift; sourceTree = "<group>"; };
+		8C46D0362BBD81F800E4AB58 /* StateDrivenView_5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateDrivenView_5.swift; sourceTree = "<group>"; };
+		8C46D0372BBD81F800E4AB58 /* StateDrivenView_2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateDrivenView_2.swift; sourceTree = "<group>"; };
+		8C46D0382BBD81F800E4AB58 /* StateDrivenView_3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateDrivenView_3.swift; sourceTree = "<group>"; };
+		8C46D0392BBD81F800E4AB58 /* StateDrivenView_6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateDrivenView_6.swift; sourceTree = "<group>"; };
+		8C46D0402BBD832100E4AB58 /* StateDrivenView_ObservedObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateDrivenView_ObservedObject.swift; sourceTree = "<group>"; };
+		8C46D0432BBD847A00E4AB58 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		8C46D0452BBD84BA00E4AB58 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +80,8 @@
 			isa = PBXGroup;
 			children = (
 				8C46D01A2BB5910D00E4AB58 /* SwiftUIDataApp.swift */,
-				8C46D01C2BB5910D00E4AB58 /* ContentView.swift */,
+				8C46D03F2BBD82C600E4AB58 /* First Session */,
+				8C46D0422BBD840E00E4AB58 /* Second Session */,
 				8C46D01E2BB5911000E4AB58 /* Assets.xcassets */,
 				8C46D0202BB5911000E4AB58 /* Preview Content */,
 			);
@@ -65,6 +94,43 @@
 				8C46D0212BB5911000E4AB58 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8C46D0342BBD819F00E4AB58 /* StateDrivenView */ = {
+			isa = PBXGroup;
+			children = (
+				8C46D0322BBD80B200E4AB58 /* StateDrivenView.swift */,
+				8C46D0372BBD81F800E4AB58 /* StateDrivenView_2.swift */,
+				8C46D0382BBD81F800E4AB58 /* StateDrivenView_3.swift */,
+				8C46D0352BBD81F800E4AB58 /* StateDrivenView_4.swift */,
+				8C46D0362BBD81F800E4AB58 /* StateDrivenView_5.swift */,
+				8C46D0392BBD81F800E4AB58 /* StateDrivenView_6.swift */,
+				8C46D0302BBD806E00E4AB58 /* StateDrivenView_SimpleState.swift */,
+			);
+			path = StateDrivenView;
+			sourceTree = "<group>";
+		};
+		8C46D03F2BBD82C600E4AB58 /* First Session */ = {
+			isa = PBXGroup;
+			children = (
+				8C46D0402BBD832100E4AB58 /* StateDrivenView_ObservedObject.swift */,
+				8C46D0282BB59C6100E4AB58 /* UserProfileView.swift */,
+				8C46D0342BBD819F00E4AB58 /* StateDrivenView */,
+			);
+			path = "First Session";
+			sourceTree = "<group>";
+		};
+		8C46D0422BBD840E00E4AB58 /* Second Session */ = {
+			isa = PBXGroup;
+			children = (
+				8C46D01C2BB5910D00E4AB58 /* StateDrivenView_Observable.swift */,
+				8C46D02E2BBAE47D00E4AB58 /* ListView.swift */,
+				8C46D0432BBD847A00E4AB58 /* ActivityView.swift */,
+				8C46D02A2BBABCB200E4AB58 /* ActivityView_Observable.swift */,
+				8C46D0452BBD84BA00E4AB58 /* SettingsView.swift */,
+				8C46D02C2BBABEFA00E4AB58 /* SettingsView_Observable.swift */,
+			);
+			path = "Second Session";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +203,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8C46D01D2BB5910D00E4AB58 /* ContentView.swift in Sources */,
+				8C46D03E2BBD81F800E4AB58 /* StateDrivenView_6.swift in Sources */,
+				8C46D03C2BBD81F800E4AB58 /* StateDrivenView_2.swift in Sources */,
+				8C46D03B2BBD81F800E4AB58 /* StateDrivenView_5.swift in Sources */,
+				8C46D02D2BBABEFA00E4AB58 /* SettingsView_Observable.swift in Sources */,
+				8C46D0312BBD806E00E4AB58 /* StateDrivenView_SimpleState.swift in Sources */,
+				8C46D03D2BBD81F800E4AB58 /* StateDrivenView_3.swift in Sources */,
+				8C46D01D2BB5910D00E4AB58 /* StateDrivenView_Observable.swift in Sources */,
+				8C46D02F2BBAE47D00E4AB58 /* ListView.swift in Sources */,
+				8C46D0442BBD847A00E4AB58 /* ActivityView.swift in Sources */,
+				8C46D0462BBD84BA00E4AB58 /* SettingsView.swift in Sources */,
+				8C46D0412BBD832100E4AB58 /* StateDrivenView_ObservedObject.swift in Sources */,
+				8C46D0332BBD80B200E4AB58 /* StateDrivenView.swift in Sources */,
+				8C46D0292BB59C6100E4AB58 /* UserProfileView.swift in Sources */,
+				8C46D02B2BBABCB200E4AB58 /* ActivityView_Observable.swift in Sources */,
 				8C46D01B2BB5910D00E4AB58 /* SwiftUIDataApp.swift in Sources */,
+				8C46D03A2BBD81F800E4AB58 /* StateDrivenView_4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
